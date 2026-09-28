@@ -95,10 +95,10 @@ pip install -r requirements.txt
 
 You need a Google Earth Engine account and a Google Cloud project. Run ee.Authenticate() once, then put your own project ID in ee.Initialize(project='...'). Change the coordinates and file paths in the notebooks to your own.
 
-##Progress log
+## Progress log
   * Sep 2026: Finished data collection, cleaning and NDVI extraction. Uploaded to GitHub.
 
-##Credits
+## Credits
 Weather data by Open-Meteo.com. Contains modified Copernicus Sentinel data, accessed through Google Earth Engine.
 
     
