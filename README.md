@@ -15,7 +15,7 @@ My family has a small tea plantation, and I'm building a machine learning model 
 - [ ] Model training and evaluation
 
 ## Repo structure
-tea-yield-prediction/
+```tea-yield-prediction/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
@@ -25,7 +25,7 @@ tea-yield-prediction/
 └── notebooks/
     ├── 01_data_collection_and_cleaning.ipynb
     └── 02_ndvi_extraction.ipynb
-
+```
 More notebooks will go into `notebooks/` as the project grows. Run them in number order.
 
 ## Part 1: Data collection and cleaning
