@@ -91,7 +91,7 @@ NDVI shows how green and healthy the plants are, so I thought it could help pred
 
 ```bash
 pip install -r requirements.txt
-bash```
+```
 
 You need a Google Earth Engine account and a Google Cloud project. Run ee.Authenticate() once, then put your own project ID in ee.Initialize(project='...'). Change the coordinates and file paths in the notebooks to your own.
 
