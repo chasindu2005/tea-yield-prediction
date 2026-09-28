@@ -1,5 +1,5 @@
-# README.md file ekata daanna oni markdown content eka string ekak widiyata set karaganna
-readme_content = """# Tea Yield Prediction using Machine Learning
+
+ """# Tea Yield Prediction using Machine Learning
 
 My family has a small tea plantation, and I'm building a machine learning model to predict the tea yield (weight in kg) for each plucking round. This is my main project, and this repo is where I keep all of it.
 
